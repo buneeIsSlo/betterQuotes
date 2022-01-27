@@ -1,0 +1,15 @@
+{
+    "manifest_version": 2,
+    "name": "Better Quotes",
+    "version": "1.0",
+    "description": "New quote on every new tab",
+    "icons": {
+        "16": "assets/icon-16.png",
+        "48": "assets/icon-48.png",
+        "128": "assets/icon-128.png"
+    },
+    "chrome_url_overrides": {
+        "newtab": "index.html"
+    },
+    "offline_enabled": true
+}
