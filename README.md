@@ -4,6 +4,9 @@ Hi! This is a simple chrome extension that adds a new quote on every single new 
 
 This is also just a rebranding of a chrome extension that [already exists.](https://chrome.google.com/webstore/detail/good-quotes/acmmhpghffjojopbdcjmpadajjiopijp)
 
+## Screenshot
+![betterQuotes Screenshot](assets/bqScrenshot.PNG)
+
 ### Built with
 - HTML
 - CSS
